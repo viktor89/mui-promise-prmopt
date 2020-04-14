@@ -1,6 +1,6 @@
 {
   "name": "mui-promise-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A promise based implementation for handling prompts, alerts, etc. with Material UI",
   "main": "lib/index.js",
   "dependencies": {
