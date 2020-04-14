@@ -1,0 +1,28 @@
+{
+  "name": "mui-promise-prompt",
+  "version": "1.0.0",
+  "description": "A promise based implementation for handling prompts, alerts, etc. with Material UI",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor89/mui-promise-prompt.git"
+  },
+  "keywords": [
+    "mui",
+    "promise",
+    "prompt",
+    "alert",
+    "confirm"
+  ],
+  "author": "Viktor Poulsen <viktormaigaard@gmail.com> (https://github.com/viktor89)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viktor89/mui-promise-prompt/issues"
+  },
+  "homepage": "https://github.com/viktor89/mui-promise-prompt#readme"
+}
